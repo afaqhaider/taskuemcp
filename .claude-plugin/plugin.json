@@ -1,0 +1,25 @@
+{
+  "name": "taskue",
+  "version": "1.0.3",
+  "description": "Plan shifts, assign tasks, and review shift reports in Taskue. Admin/owner accounts only; writes preview first.",
+  "author": {
+    "name": "Taskue",
+    "email": "support@gettaskue.com",
+    "url": "https://gettaskue.com"
+  },
+  "homepage": "https://gettaskue.com",
+  "repository": "https://github.com/afaqhaider/taskuemcp",
+  "keywords": [
+    "taskue",
+    "shifts",
+    "tasks",
+    "scheduling"
+  ],
+  "displayName": "Taskue",
+  "license": "UNLICENSED",
+  "icon": "./icon.png",
+  "documentationUrl": "https://gettaskue.com/support",
+  "supportUrl": "https://gettaskue.com/support",
+  "privacyPolicyUrl": "https://gettaskue.com/privacy",
+  "termsOfServiceUrl": "https://gettaskue.com/terms"
+}

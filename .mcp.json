@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "taskue": { "type": "http", "url": "https://taskue-mcp-lmo7mkw3jq-uc.a.run.app/mcp" }
+  }
+}

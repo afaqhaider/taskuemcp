@@ -1,0 +1,7 @@
+Copyright (c) 2026 Taskue. All rights reserved.
+
+This repository contains the Taskue plugin for Claude. It is published so that
+Claude and the Claude plugin directory can install and display it. No licence
+is granted to copy, modify, redistribute or create derivative works from it
+without prior written permission from Taskue (support@gettaskue.com).
+Use of the Taskue service itself is governed by https://gettaskue.com/terms.

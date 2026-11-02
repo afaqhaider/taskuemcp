@@ -1,0 +1,11 @@
+{
+  "name": "taskue",
+  "owner": { "name": "Taskue", "email": "support@gettaskue.com" },
+  "plugins": [
+    {
+      "name": "taskue",
+      "source": "./",
+      "description": "Manage Taskue tasks, shifts, staff and reports from Claude (OAuth, admin only)."
+    }
+  ]
+}
