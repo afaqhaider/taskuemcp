@@ -1,6 +1,6 @@
 {
   "name": "taskue",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Plan shifts, assign tasks, and review shift reports in Taskue. Admin/owner accounts only; writes preview first.",
   "author": {
     "name": "Taskue",
